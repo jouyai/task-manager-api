@@ -1,0 +1,11 @@
+# Mengabaikan file log
+*.log
+
+# Mengabaikan folder node_modules
+node_modules/
+
+# Mengabaikan file konfigurasi sensitif
+.env
+
+# Mengabaikan folder build
+dist/
